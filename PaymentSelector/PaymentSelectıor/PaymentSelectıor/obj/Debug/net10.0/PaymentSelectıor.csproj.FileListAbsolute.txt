@@ -1,0 +1,14 @@
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\bin\Debug\net10.0\PaymentSelectıor.exe
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\bin\Debug\net10.0\PaymentSelectıor.deps.json
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\bin\Debug\net10.0\PaymentSelectıor.runtimeconfig.json
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\bin\Debug\net10.0\PaymentSelectıor.dll
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\bin\Debug\net10.0\PaymentSelectıor.pdb
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.AssemblyInfo.cs
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.dll
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\refint\PaymentSelectıor.dll
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.pdb
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\PaymentSelectıor.genruntimeconfig.cache
+C:\Users\serka\source\repos\PaymentSelector\PaymentSelectıor\PaymentSelectıor\obj\Debug\net10.0\ref\PaymentSelectıor.dll

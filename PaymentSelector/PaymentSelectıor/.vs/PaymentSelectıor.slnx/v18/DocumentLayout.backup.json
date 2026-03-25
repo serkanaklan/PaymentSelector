@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\paymentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\mealpaycard\\sodexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\mealpaycard\\sodexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\normalpayment\\cashmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\normalpayment\\cashmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\normalpayment\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\normalpayment\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|c:\\users\\serka\\source\\repos\\paymentselector\\paymentselect\u0131or\\paymentselect\u0131or\\mealpaycard\\multinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE474934-860F-30EE-DADE-C22C6E7832CF}|PaymentSelect\u0131or\\PaymentSelect\u0131or.csproj|solutionrelative:paymentselect\u0131or\\mealpaycard\\multinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sodexo.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\MealPayCard\\sodexo.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\MealPayCard\\sodexo.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\MealPayCard\\sodexo.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\MealPayCard\\sodexo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:55:01.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainApp.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\mainApp.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\mainApp.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\mainApp.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\mainApp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T07:02:13.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\PaymentFactory.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\PaymentFactory.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\PaymentFactory.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\PaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:58:47.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "creditCard.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\NormalPayment\\creditCard.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\NormalPayment\\creditCard.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\NormalPayment\\creditCard.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\NormalPayment\\creditCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:56:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cashManagment.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\NormalPayment\\cashManagment.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\NormalPayment\\cashManagment.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\NormalPayment\\cashManagment.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\NormalPayment\\cashManagment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:53:44.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\Program.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\Program.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:53:27.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "paymentManager.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\paymentManager.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\paymentManager.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\paymentManager.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\paymentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:53:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "multinet.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\MealPayCard\\multinet.cs",
+              "RelativeDocumentMoniker": "PaymentSelect\u0131or\\MealPayCard\\multinet.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\PaymentSelector\\PaymentSelect\u0131or\\PaymentSelect\u0131or\\MealPayCard\\multinet.cs",
+              "RelativeToolTip": "PaymentSelect\u0131or\\MealPayCard\\multinet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:59:39.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
